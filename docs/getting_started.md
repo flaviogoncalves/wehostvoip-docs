@@ -244,9 +244,9 @@ To avoid fraud, subscribers are not allowed by default to make PSTN calls. You w
 
 ![image](https://github.com/pauloantonio-git/wehostvoip-docs/assets/104862214/48a527b3-1b7d-4baa-be45-1fa84cf72901){ width="100%" style="display: block;margin-left: auto;margin-right: auto;"}
 
-![image](https://github.com/pauloantonio-git/wehostvoip-docs/assets/104862214/b86e8cc5-acd9-4802-8be4-d08332bdcc91){ width="50%" style="display: block;margin-left: auto;margin-right: auto;"}
+![image](https://github.com/pauloantonio-git/wehostvoip-docs/assets/104862214/b86e8cc5-acd9-4802-8be4-d08332bdcc91){ width="80%" style="display: block;margin-left: auto;margin-right: auto;"}
 
-![image](https://github.com/pauloantonio-git/wehostvoip-docs/assets/104862214/5193e8ff-f2ab-48cd-913a-3f581e23189a){ width="50%" style="display: block;margin-left: auto;margin-right: auto;"}
+![image](https://github.com/pauloantonio-git/wehostvoip-docs/assets/104862214/5193e8ff-f2ab-48cd-913a-3f581e23189a){ width="80%" style="display: block;margin-left: auto;margin-right: auto;"}
 
 After adding the codes/countries, click on save.
 
