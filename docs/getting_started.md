@@ -227,9 +227,9 @@ You can only use the softphone if you are using Windows 7 or later. Download the
 
 After the installation, log in using the username and **softphone** password. 
 
-![image](https://github.com/pauloantonio-git/wehostvoip-docs-pt/assets/104862214/9d01901c-a650-48f7-9d41-beede9144bb8){ width="20%" style="display: block;margin-left: auto;margin-right: auto;"}
+![image](https://github.com/pauloantonio-git/wehostvoip-docs-pt/assets/104862214/9d01901c-a650-48f7-9d41-beede9144bb8){ width="40%" style="display: block;margin-left: auto;margin-right: auto;"}
 
-![imagem](https://user-images.githubusercontent.com/4958202/153725448-8a30f3bf-c243-46b4-8fd7-d2bd97c47749.png){ width="20%" style="display: block;margin-left: auto;margin-right: auto;"}
+![imagem](https://user-images.githubusercontent.com/4958202/153725448-8a30f3bf-c243-46b4-8fd7-d2bd97c47749.png){ width="40%" style="display: block;margin-left: auto;margin-right: auto;"}
 
 [Using another softphone/phone](configure-softphones-ip_phones.md)
 
