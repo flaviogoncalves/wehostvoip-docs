@@ -11,7 +11,7 @@
 
 
 ## MicroSIP
-![microsip](https://github.com/pauloantonio-git/wehostvoip-docs-pt/assets/104862214/2f477d8c-7449-49ed-8bd1-66a3fefcad2d)
+![microsip](https://github.com/flaviogoncalves/wehostvoip-docs/assets/104862214/3bc94ae7-8de3-49ed-9b13-3ccf01164a97)
 
 
 ## Intelbras TIP125i
